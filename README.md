@@ -204,3 +204,49 @@ Saber o cliente: anote ou faça um resumo mental. Comunicação vai além da fal
 		- Expressões 
 
 Registre essa etapa para poder ir para a próxima.
+
+## 10 Regras para conversar melhor
+
+*Cliente pragmático:* quem nunca se deparou com um cliente que não deixa ao menos você terminar uma apresentação e já começa a demonstrar inquietação e pressa?
+
+*Cliente expressivo:* ou ainda, cliente que fica o tempo inteiro falando de assuntos aleatórios com você a ponto de não deixar espaço para que a negociação seja concluída?
+
+*Cliente afável:* existe clientes que são tão carentes e pegajosos que quase sufocam o negociador.
+
+*Cliente analítico:* há aqueles que são extremamente detalhistas, querem saber o dia, hora exata que a entrega do produto será realizada.
+> Descubra quem é o tomador de decisão;
+> Cuidado com a postura diante do cliente;
+
+**Solução ideal:** no momento do levantamento você já vai tendo ideias da solução para encaixar o produto. Demonstrar em aplicações práticas.
+
+**Desenhando a solução:** considere a solução do todo, a solução completa para a necessidade. Tenha clareza de onde o cliente vai usar. Descreva detalhadamente o que e como será entregue.
+
+**Gestão da oportunidade:** apresente a proposta e tenha clareza de que todo mundo entende o valor do produto. Combine = atividades, data e responsáveis.
+
+## Fechamento e construção de relacionamento
+
+Relação ganha = ganha (tem que ser bom para ambas as partes).
+
+*Muito além do desconto:* 
+**T**empo do serviço prestrado/contrato;
+**Q**uantidade de serviços/produtos;
+**O**utros serviços/produtos agregados;
+**P**arcerias/permutas;
+
+OBJEÇÕES => respostas simples e diretas.
+
+PICH DE VENDAS => instigar o interesse, seja autêntico.
+
+## Discurso de venda
+
+ - Desperte a atenção: PROBLEMA - "Times enxutos, mercado mais exigente e resultados desafiadores, sabemos bem como é..."
+ 
+ - Mostre ganhos: SOLUÇÃO - "...nossa plataforma dobra a produtividade, a partir da automatização de 50% das tarefas, deixando o time atuar no mais estratégico..."
+ - Por que você?: DIFERENCIAÇÃO - "..única plataforma que apresenta os resultados em tempo real e sugere melhorias com base nos feedbacks dos clientes."
+
+***
+
+    Se a pessoa começou a fazer perguntas, é porque surgiu interesse.
+
+***
+**Comunicação é o que o outro entende e não o que você fala. Adapte-se ao cliente, postura deve condizer, fale de forma simples.**
