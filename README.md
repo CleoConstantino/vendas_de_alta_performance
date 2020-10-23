@@ -250,3 +250,10 @@ PICH DE VENDAS => instigar o interesse, seja autêntico.
 
 ***
 **Comunicação é o que o outro entende e não o que você fala. Adapte-se ao cliente, postura deve condizer, fale de forma simples.**
+
+## Suporte na utilização
+
+ - Ajude o cliente acolocar em prática, ajude o cliente a ter sucesso.
+ - Acompanhar o sucesso do cliente, está usando a solução no potencial máximo?
+ - Encantamento: ele só vai querer continuar utilizar se ele estiver encantado.
+ - Fidelize: o cliente precisa entender que você faz parte do sucesso dele.
